@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1094666173432",
+    "project_id": "apkpinjambuku",
+    "storage_bucket": "apkpinjambuku.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094666173432:android:167bb907355d2802f8740d",
+        "android_client_info": {
+          "package_name": "com.arigusadewa.apkpinjambuku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094666173432-01sp8j9tv495l28d0t3i02s5rjhqkkbp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arigusadewa.apkpinjambuku",
+            "certificate_hash": "dec062bed1b5d209913a25dd04a7d9578fc4eb50"
+          }
+        },
+        {
+          "client_id": "1094666173432-k886doi24l96dgedvbam56f731kuh98p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDOSPMM3-P63fMHACw5uJdQi1MDPIYQQg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094666173432-k886doi24l96dgedvbam56f731kuh98p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
